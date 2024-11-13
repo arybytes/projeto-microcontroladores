@@ -8,7 +8,7 @@ Reproduzir a funcionalidade de um sensor de estacionamento automotivo, emitindo 
 
 ## Implementação 
 
-![WhatsApp Image 2024-11-13 at 15 31 12](https://github.com/user-attachments/assets/f3e5671a-60d6-40c4-946c-c32b3d217efe)
+![Projeto](https://github.com/user-attachments/assets/2cbe785e-6388-4968-b97f-d29ab5b4ca6f)
 
 ## Componentes Utilizados
 - Arduino Uno
