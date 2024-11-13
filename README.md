@@ -19,7 +19,7 @@ Reproduzir a funcionalidade de um sensor de estacionamento automotivo, emitindo 
 - Fios de conexão
 
 ## Diagrama de Conexão
-![Diagrama de Conexão](images/diagrama_conexao.png)
+![diagrama](https://github.com/user-attachments/assets/bcb8a0f0-ecc1-444c-9dbf-30bda78fdb2f)
 
 ## Funcionamento
 1. O sensor mede a distância do objeto.
